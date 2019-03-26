@@ -1,1 +1,2 @@
 This is new file created in Feature branch
+added new text line for rebase example
